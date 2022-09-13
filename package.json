@@ -20,6 +20,7 @@
     "github-actions"
   ],
   "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.0",
     "@shelex/cypress-allure-plugin": "2.23.0",
     "cypress": "10.4.0",
     "cypress-grep": "2.13.1",
